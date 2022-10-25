@@ -1,1 +1,1 @@
-C level language
+c-pointers and arrays
