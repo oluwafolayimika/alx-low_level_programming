@@ -1,1 +1,1 @@
-static libraray
+Static library

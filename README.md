@@ -1,1 +1,1 @@
-c-pointers and arrays
+Static library
