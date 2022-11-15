@@ -1,1 +1,1 @@
-Static library
+ Cstructures, typedef
